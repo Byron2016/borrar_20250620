@@ -29,6 +29,7 @@ Nombre: Ing. Byron Valdivieso A.
 C.I.: 1707002786
 Teléfono: 0959940768
 Dirección: Morales E349
+Email: bgva2005@yahoo.com
 
 
 
@@ -65,3 +66,4 @@ Nombre: Ing. Byron Valdivieso A.
 C.I.: 1707002786
 Teléfono: 0959940768
 Dirección: Morales E349
+Email: bgva2005@yahoo.com
