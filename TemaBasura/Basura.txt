@@ -157,3 +157,91 @@ Ojo: La Corte Constitucional en Ecuador suele ser bastante rigurosa con los tiem
 
 ¿Ya tienes el número de causa o apenas ingresaste el pedido por ventanilla? Si quieres, podemos redactar un borrador de los puntos clave que un concejal debería mencionar para apoyar tu argumento.
 
+--------------------------
+me gustaría que generes un resumen que permita a futuro ponerte en conocimiento de todo lo que se ha hecho, el nombre de los archivos ahora son dp_001.txt cc_001.txt, ActaSorteo_19-26-IN.pdf y los nuevos: dp_002.txt y wm_001.txt. Es importante que tenga la información suficiente para que tú a futuro tengas los elementos suficientes para seguir generando nuevos oficios según la necesidad
+---------------------------
+
+================================================================================
+RESUMEN DE CONTROL: CASO TASA DE BASURA QUITO 2026 - CAUSA 19-26-IN
+================================================================================
+
+1. DATOS DEL PROCESO
+--------------------------------------------------------------------------------
+- Número de Causa: 19-26-IN (Acción Pública de Inconstitucionalidad)
+- Institución: Corte Constitucional del Ecuador
+- Jueza Ponente: Dra. Claudia Helena Salgado Levy
+- Accionante: Ing. Byron Gustavo Valdivieso Andrade (C.I. 1707002786)
+- Fecha de Inicio: 13 de febrero de 2026
+
+2. BITÁCORA DE ARCHIVOS Y DOCUMENTOS
+--------------------------------------------------------------------------------
+- cc_001.txt: 
+  Demanda de inconstitucionalidad por el fondo. Fundamenta violaciones a los Art. 425 (Jerarquía), Art. 300 (Equidad) y Art. [cite_start]568 del COOTAD[cite: 4, 5, 7].
+  
+- ActaSorteo_19-26-IN.pdf: 
+  Documento que oficializa el ingreso de la causa y radica la competencia en la Jueza Salgado Levy.
+
+- dp_001.txt (13-Feb-2026): 
+  [cite_start]Queja formal ante el Defensor del Pueblo (Dr. César Córdova Valverde) por vulneración de derechos al consumidor y servicios públicos (Art. 52 CRE)[cite: 11, 14, 17].
+
+- dp_002.txt (15-Feb-2026): 
+  Oficio de seguimiento solicitando acompañamiento formal y vigilancia del debido proceso ante la Corte Constitucional.
+
+- wm_001.txt (15-Feb-2026): 
+  Oficio dirigido al Concejal Wilson Merino Rivadeneira solicitando su intervención como Amicus Curiae en la causa 19-26-IN.
+
+3. ARGUMENTOS LEGALES PRINCIPALES
+--------------------------------------------------------------------------------
+- Art. [cite_start]425 CRE: Violación de jerarquía normativa; la tasa actúa como impuesto oculto[cite: 4].
+- Art. [cite_start]300 CRE: Vulneración de equidad y capacidad contributiva (cobro regresivo)[cite: 5, 6].
+- Art. [cite_start]568 COOTAD: Las tasas deben responder a la prestación de un servicio real, no a indicadores ajenos como el agua[cite: 7, 8].
+- Art. [cite_start]52 CRE: Derecho a servicios públicos con precios justos y proporcionales[cite: 17].
+- Art. [cite_start]76 num 6 CRE: Falta de proporcionalidad lógica entre consumo de agua y basura[cite: 19].
+
+4. CONTEXTO DEL PROBLEMA
+--------------------------------------------------------------------------------
+- [cite_start]Cambio de recaudación de planilla eléctrica a planilla de agua (EPMAPS) el 01-Feb-2026[cite: 15].
+- [cite_start]Incrementos desproporcionados reportados por ciudadanos (ej. de $3 a $35 o más de $100)[cite: 18].
+- [cite_start]Afectación crítica a edificios con medidores comunales y familias numerosas[cite: 6].
+- Deficiencia en el servicio de EMASEO por fallas en la flota operativa.
+
+================================================================================
+FIN DEL RESUMEN
+================================================================================
+
+------------------------------
+
+================================================================================
+PLANTILLA DE AMICUS CURIAE - CAUSA 19-26-IN
+================================================================================
+
+SEÑORA JUEZA PONENTE DE LA CORTE CONSTITUCIONAL DEL ECUADOR
+Dra. Claudia Helena Salgado Levy
+
+Ref: Causa Nro. 19-26-IN
+
+Yo, [NOMBRE COMPLETO], con cédula de identidad [NÚMERO], por mis propios derechos o en representación de [NOMBRE DEL COLECTIVO/ORGANIZACIÓN], comparezco ante usted para presentar un AMICUS CURIAE dentro de la Acción Pública de Inconstitucionalidad interpuesta por el Ing. Byron Gustavo Valdivieso Andrade.
+
+1. INTERÉS EN LA CAUSA
+Como ciudadano/a residente en el Distrito Metropolitano de Quito, me veo directamente afectado por la Ordenanza Metropolitana que regula el cobro de la Tasa de Recolección de Basura a través de la planilla de agua potable.
+
+2. ARGUMENTOS TÉCNICOS Y JURÍDICOS
+Coadyuvo a la demanda principal considerando que:
+- [cite_start]La metodología de cálculo vulnera el Principio de Equidad y Capacidad Contributiva (Art. 300 CRE), al ser un cobro regresivo que no distingue la generación real de residuos[cite: 5, 6].
+- Existe una violación al Art. [cite_start]568 del COOTAD, pues la tasa no guarda relación con el costo efectivo del servicio, convirtiéndose en un cobro arbitrario basado en el consumo de agua[cite: 7, 8].
+- [cite_start]Se transgrede el derecho a servicios públicos con precios justos y proporcionales (Art. 52 CRE)[cite: 16, 17].
+
+3. PETICIÓN
+Solicito a su autoridad que estos elementos sean considerados al momento de dictar sentencia, declarando la INCONSTITUCIONALIDAD de la normativa referida para proteger el patrimonio de los habitantes de Quito.
+
+Atentamente,
+
+(Firma)
+Nombre: __________________________
+C.I.: ____________________________
+Email: ___________________________
+Teléfono: ________________________
+
+================================================================================
+
+------------------------
