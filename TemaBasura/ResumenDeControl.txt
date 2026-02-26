@@ -1,0 +1,46 @@
+RESUMEN DE CONTROL: CASO TASA DE BASURA QUITO 2026 - CAUSA 19-26-IN
+================================================================================
+
+1. DATOS DEL PROCESO
+--------------------------------------------------------------------------------
+- Número de Causa: 19-26-IN (Acción Pública de Inconstitucionalidad)
+- Institución: Corte Constitucional del Ecuador
+- Jueza Ponente: Dra. Claudia Helena Salgado Levy
+- Accionante: Ing. Byron Gustavo Valdivieso Andrade (C.I. 1707002786)
+- Fecha de Inicio: 13 de febrero de 2026
+
+2. BITÁCORA DE ARCHIVOS Y DOCUMENTOS
+--------------------------------------------------------------------------------
+- cc_001.txt: 
+  Demanda de inconstitucionalidad por el fondo. Fundamenta violaciones a los Art. 425 (Jerarquía), Art. 300 (Equidad) y Art. [cite_start]568 del COOTAD[cite: 4, 5, 7].
+  
+- ActaSorteo_19-26-IN.pdf: 
+  Documento que oficializa el ingreso de la causa y radica la competencia en la Jueza Salgado Levy.
+
+- dp_001.txt (13-Feb-2026): 
+  [cite_start]Queja formal ante el Defensor del Pueblo (Dr. César Córdova Valverde) por vulneración de derechos al consumidor y servicios públicos (Art. 52 CRE)[cite: 11, 14, 17].
+
+- dp_002.txt (15-Feb-2026): 
+  Oficio de seguimiento solicitando acompañamiento formal y vigilancia del debido proceso ante la Corte Constitucional.
+
+- wm_001.txt (15-Feb-2026): 
+  Oficio dirigido al Concejal Wilson Merino Rivadeneira solicitando su intervención como Amicus Curiae en la causa 19-26-IN.
+
+3. ARGUMENTOS LEGALES PRINCIPALES
+--------------------------------------------------------------------------------
+- Art. [cite_start]425 CRE: Violación de jerarquía normativa; la tasa actúa como impuesto oculto[cite: 4].
+- Art. [cite_start]300 CRE: Vulneración de equidad y capacidad contributiva (cobro regresivo)[cite: 5, 6].
+- Art. [cite_start]568 COOTAD: Las tasas deben responder a la prestación de un servicio real, no a indicadores ajenos como el agua[cite: 7, 8].
+- Art. [cite_start]52 CRE: Derecho a servicios públicos con precios justos y proporcionales[cite: 17].
+- Art. [cite_start]76 num 6 CRE: Falta de proporcionalidad lógica entre consumo de agua y basura[cite: 19].
+
+4. CONTEXTO DEL PROBLEMA
+--------------------------------------------------------------------------------
+- [cite_start]Cambio de recaudación de planilla eléctrica a planilla de agua (EPMAPS) el 01-Feb-2026[cite: 15].
+- [cite_start]Incrementos desproporcionados reportados por ciudadanos (ej. de $3 a $35 o más de $100)[cite: 18].
+- [cite_start]Afectación crítica a edificios con medidores comunales y familias numerosas[cite: 6].
+- Deficiencia en el servicio de EMASEO por fallas en la flota operativa.
+
+================================================================================
+FIN DEL RESUMEN
+================================================================================
